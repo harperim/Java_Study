@@ -242,3 +242,7 @@ public class HelloController {
         - `$ ./gradlew clean`  : build 폴더 사라짐
             - `$ ls -arlth` 로 삭제 확인
         - `$ ./gradlew clean build` : 지우고 다시 설치
+
+### 참고
+- 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 [인프런]  
+[[지금 무료]스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 강의 | 김영한 - 인프런](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8?attributionToken=iQHwiAoMCLbjqLkGELj_2ZADEAEaJDY3MzRjZWY3LTAwMDAtMjU3Yi04NDE3LTNjMjg2ZDM0NjZiZSoHMTQ5Nzg0MzIwo4CXIra3jC2o5aotjpHJMMLwnhXFy_MXjr6dFdSynRWb1rctkPeyMJruxjCY1rctOg5kZWZhdWx0X3NlYXJjaEgBaAF6AnNp)
