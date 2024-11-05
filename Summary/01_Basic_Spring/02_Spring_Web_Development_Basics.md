@@ -8,13 +8,7 @@
     
     | **정적 컨텐츠** | **MVC**  | **API** |
     | --- | --- | --- |
-    | 파일을 웹 브라우저에 
-    그대로 내려주는 것 | HTML을 그냥 주는 것이 아니라
-    서버에서 프로그래밍 한 후, 
-    HTML을 동적으로 바꿔서 
-    보여주는 것  | JSON 구조 포맷으로 
-    클라이언트에게 데이터를 
-    전달하는 것 |
+    | 파일을 웹 브라우저에 그대로 내려주는 것 | HTML을 그냥 주는 것이 아니라 서버에서 프로그래밍 한 후, HTML을 동적으로 바꿔서 보여주는 것  | JSON 구조 포맷으로 클라이언트에게 데이터를 전달하는 것 |
 - 스프링 부트는 정적 컨텐츠 기능 자동으로 지원
 
 [Spring Boot Features](https://docs.spring.io/spring-boot/docs/2.3.1.RELEASE/reference/html/spring-boot-features.html#boot-features-spring-mvc-static-content)
